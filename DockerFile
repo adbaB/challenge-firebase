@@ -1,0 +1,7 @@
+FROM node:20-alpine
+WORKDIR /home/firebase
+COPY . .
+EXPOSE 5001
+EXPOSE 4000
+EXPOSE 9005
+RUN apk update  
