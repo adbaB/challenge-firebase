@@ -35,7 +35,7 @@ $ npm install -g firebase-tools
    
    ![Texto alternativo](/img/link_proyecto.png)
 
-    **Usa el siguiente Comando**
+    **Usa el siguiente Comando:**
   ~~~
   $ firebase use --add <alias_or_project_id>
   ~~~
